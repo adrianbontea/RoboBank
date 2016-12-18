@@ -46,3 +46,4 @@ Current Technical Concepts and Technologies
 -	Azure Service Bus
 -	Azure Application Insights
 
+The microservices and the Banking Portal app that are part of the RoboBank system are source controled in separate git repositories in order to enforce the autonomy and heterogenity that are specific to Microservices architectural style (independently develop, deploy and scale)
