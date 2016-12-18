@@ -24,6 +24,7 @@ Current Technical Concepts and Technologies
 -	Integration Testing (e2e and isolated service testing)
 -	BDD
 -	DDD
+-	TDD
 -	C# 6/.net 4.6
 -	ASP.NET WebAPI 2
 -	ASP.NET MVC 5
