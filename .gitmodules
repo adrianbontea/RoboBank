@@ -1,0 +1,15 @@
+[submodule "RoboBank.Account"]
+	path = RoboBank.Account
+	url = https://github.com/adrianbontea/RoboBank.Account.git
+[submodule "RoboBank.Customer"]
+	path = RoboBank.Customer
+	url = https://github.com/adrianbontea/RoboBank.Customer.git
+[submodule "RoboBank.Email"]
+	path = RoboBank.Email
+	url = https://github.com/adrianbontea/RoboBank.Email.git
+[submodule "RoboBank.Merchant"]
+	path = RoboBank.Merchant
+	url = https://github.com/adrianbontea/RoboBank.Merchant.git
+[submodule "RoboBank.BankingPortal"]
+	path = RoboBank.BankingPortal
+	url = https://github.com/adrianbontea/RoboBank.BankingPortal.git
