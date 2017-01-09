@@ -25,9 +25,12 @@ Current Technical Concepts and Technologies
 -	BDD
 -	DDD
 -	TDD
--	C# 6/.net 4.6
+-	C# 1-7
+-       .net framework 4.6
+-       .net core 1.1.0/.net standard 1.6
 -	ASP.NET WebAPI 2
 -	ASP.NET MVC 5
+-       ASP.NET Core 1.1.0
 -	EntityFramework
 -	Mongo
 -	Redis
