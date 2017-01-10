@@ -13,6 +13,3 @@
 [submodule "RoboBank.BankingPortal"]
 	path = RoboBank.BankingPortal
 	url = https://github.com/adrianbontea/RoboBank.BankingPortal.git
-[submodule "RoboBank.Account.NetCore"]
-	path = RoboBank.Account.NetCore
-	url = https://github.com/adrianbontea/RoboBank.Account.NetCore.git
