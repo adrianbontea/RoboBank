@@ -26,8 +26,9 @@ Current Technical Concepts and Technologies
 -	DDD
 -	TDD
 -	C# 1-7
--       .net framework 4.6
--       .net core 1.1.0/.net standard 1.6
+-       .net framework 4.6.1
+-       .net standard 1.6.1
+-       .net core 1.1.0
 -	ASP.NET WebAPI 2
 -	ASP.NET MVC 5
 -       ASP.NET Core 1.1.0
